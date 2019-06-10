@@ -1,6 +1,6 @@
 #concatenation in python
 print("Hello World " + "My Name Is Dionuta")
-example_string = "Dionuta is going to rich"
+example_string = "Dionuta is super"
 print(example_string)
 example_interger = 9 # or any whole number
 print(example_interger)
